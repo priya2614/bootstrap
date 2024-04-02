@@ -1,0 +1,21 @@
+*{
+     background:#afeeee;
+    margin: 0px;
+    padding: 0; 
+}
+
+img{
+     padding-left: 15px;
+    border-radius:  50px;
+    box-shadow: rgba(224, 28, 120, 0.35) 0px 0px 15px;
+    border: 1px solid; 
+     margin: 2px; 
+
+
+
+}
+img:hover {
+    cursor: pointer;
+    transform: scale(1.2);
+  } 
+
